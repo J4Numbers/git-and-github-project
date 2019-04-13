@@ -6,3 +6,4 @@
 
 3. Host an index.html file with a heading that reads Hello World!
 
+4. Share the link to your Github pages in the issues comment section [link](https://github.com/codeandstuff-manchester/Exercises/issues/1)
