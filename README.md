@@ -4,6 +4,8 @@ Welcoe to the CodeandStuff Git and GitHub project repository. This repository co
 
 ## Projects
 
+[Git and GitHub Project 1](https://github.com/codeandstuff-manchester/git-and-github-project/blob/master/project-1.md)
+
 ## Working on your Projects
 
 While working on your repository you should regularly commit your code. This is a good habit to get into and will allow you to go back to a previous version if you make a mistake you can't fix. Generally, code should be committed when you've completed a section. A set of commit messages might look something like this:
