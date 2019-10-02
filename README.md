@@ -1,8 +1,8 @@
-# CodeandStuff Projects
+# CodeandStuff Git and GitHub Projects
 
 Welcoe to the CodeandStuff Git and GitHub project repository. This repository contains projects we have created for our CodeandStuff attendees for Git and GitHub.
 
-## Projects
+## Git and GitHub Projects
 
 [Git and GitHub Project 1](https://github.com/codeandstuff-manchester/git-and-github-project/blob/master/project-1.md)
 
