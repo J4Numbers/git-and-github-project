@@ -7,3 +7,5 @@
 3. Create an index.html file with a heading that reads Hello World!
 
 4. Share the link to your Github pages in the issues comment section ->[link](https://github.com/codeandstuff-manchester/git-and-github-project/issues/1)
+
+5. Post the link also in the CodeandStuff #project-submissions Slack channel.
