@@ -83,3 +83,13 @@ site to reduce repetition and to make adding new pages easier.
 _Skill words: templates, HTML, design hierarchy_
 
 Start this module [Here][3].
+
+### 4. Repeat after me
+
+Now let's start adding dynamic content to your website that changes
+over time.
+
+This segment looks at generating new information to keep your pages
+fresh and dynamic.
+
+_Skill words: templates, TDD_
