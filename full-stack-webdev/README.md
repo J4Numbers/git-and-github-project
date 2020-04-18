@@ -93,3 +93,31 @@ This segment looks at generating new information to keep your pages
 fresh and dynamic.
 
 _Skill words: templates, TDD_
+
+Start this module [Here][4]
+
+### 5. Tell me a story
+
+We're going to make a blog! It's not going to be anything fancy, but
+it's going to let you generate new content for your site while it's
+running.
+
+This segment starts to brush against RESTful engineering and managing
+data.
+
+_Skill words: REST, HTTP, forms_
+
+Start this module [Here][5]
+
+
+### A base for your data
+
+Let's start getting this site ready for production by adding in a
+database to store your blog posts.
+
+This segment introduces the idea of storing your data elsewhere
+within a database.
+
+_Skill words: Relational databases_
+
+Start this module [Here][6]
